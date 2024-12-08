@@ -8,3 +8,5 @@ https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
 ffmpeg
 asyncio 
+git+https://github.com/user/proj.git#egg=proj
+setuptools-scm
